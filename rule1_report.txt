@@ -1,0 +1,51 @@
+Name	Account Number	Transaction Number	Merchant	Transaction Amount
+Michael Smith	11111	15	KROGER #2 4000 POLK    HOUSTON        TX	2300
+Albares Cammy	14829	3	STADIUM GOODS NY       New York       TX	348.4
+Caudy Chanel	15482	7	WALMART.COM AX         8009666546    KS	237.07
+Pawlowicz Gregoria	16068	4	IMMERSIVE VAN GOGH ... CHICAGO       NY	136.47
+Glick Albina	17079	8	WHOLEFDS SCA #10 2732 ASANTA CLARA  NJ	457.37
+Wieser Sage	18054	17	DESI BROTHERS- SUGERLA SUGAR LAND    SD	160.79
+Vocelka Francine	20759	58	TST* BOB S STEAK & CHO DALLAS        NM	387.34
+Vocelka Francine	20759	77	CVS/PHARMACY #11065    DALLAS        NM	299.39
+Vocelka Francine	20759	51	AL BIERNAT'S           DALLAS        NM	297.06
+Haroldson Cheryl	20908	13	AMERICAN               8004337300    NJ	172.81
+John Doe	22222	10	Best Buy		New York       NY	10000
+Tollner Mitsue	25643	4	TST* DESSERT GALLERY B CHICAGO       IL	40.5
+Tollner Mitsue	25643	38	CASH APP*              4153753176    IL	50
+Tollner Mitsue	25643	14	RUGGLES BL* RUGGLES BL 8887072469    IL	38.35
+Klonowski Karl	25770	31	ENTERPRISE RENT-A-CAR  PHOENIX       NJ	556.45
+Sergi Alishia	26603	6	DOORDASH*BJS RESTAURAN 6506819470    NY	127.8
+Whobrey Yuki	26607	8	UNITED                 800-932-2732  MI	244.4
+Merced Laticia	26669	10	SQC*<Cash Out        > San Francisco  OH	72.01
+Sawchuk Nelida	28064	19	CASH APP*              4153753176    NJ	40
+Amigon Minna	28226	21	BEST WESTERN PLUS GARD FREMONT       PA	172.02
+Amigon Minna	28226	57	FARMERS INS BILLING    877-327-6392  PA	145.05
+Pugh Blondell	30808	2	EFT                    Santa Fe       RI	393.25
+Slusarski Alisha	30881	2	NOT JUST SOCCER (NEW)  DALLAS        NJ	151.54
+Venere Art	31094	135	NIKO NIKO'S MONTROSE   7135280966    NJ	113.52
+Venere Art	31094	53	TEASE COLOR & STYLE BA HOUSTON       NJ	80.7
+Venere Art	31094	28	EL TIEMPO CANTINA WEBS WEBSTER       NJ	95.57
+Garufi Meaghan	31452	7	SQ *STUDIO LUX         Pearland      TN	210
+Garufi Meaghan	31452	57	TARGET        00014597 PEARLAND      TN	200.21
+Rulapaugh Kati	31593	2	NORTH HOUSTON BEEMER L SPRING        KS	859.75
+Dilliard Leota	32628	16	IN *POOL TEC POOL AND  936-3213252   CA	1677.85
+Stem Lizette	33452	1	TARGET T- 1240 Broadwa Chula Vista    NJ	91.89
+Monica Abel	33555	10	Best Buy		New York       NY	10000
+Ahle Delmy	33653	5	SQ *ROBERT ABBOTT TAX  Martinez      RI	450
+Inouye Veronika	33717	43	MIDWESTERN AUTO GROUP  DUBLIN        CA	3505.28
+Inouye Veronika	33717	97	CINFIN-PERSONAL-INSUR  888-242-0888  CA	3785
+Maclead Abel	37226	63	8898 E LEGACY BLVD     SCOTTSDALE     NY	303
+Maclead Abel	37226	14	BEST BUY      00008706 SCOTTSDALE   NY	270.11
+Maclead Abel	37226	10	NORDSTROM #0380        SCOTTSDALE    NY	464.62
+Maclead Abel	37226	7	APPLE.COM/US           800-676-2775  NY	269.04
+Foller Donette	37466	168	POSHMARK               6504887740    OH	224.2
+Foller Donette	37466	79	3200 S SHEPHERD DR     HOUSTON        OH	203
+Foller Donette	37466	166	ARGAUX                 COSTA MESA    OH	188
+Foller Donette	37466	133	AMZN Mktp US*7R1N92MV3 Amzn.com/bill OH	132.41
+Morasca Simona	38829	129	230 WEST ALABAMA APART 713-5298707   OH	1263.27
+Morasca Simona	38829	76	230 WEST ALABAMA APART 713-5298707   OH	1266.56
+Morasca Simona	38829	65	CFA Institute          4349515499    OH	1009.9
+Joseph Dark	43991	1	CFA Institute          4349515499    MI	1009.9
+Artie Venn	44891	10	Best Buy		New York       NY	10000
+Don Fuller	53111	1	CFA Institute          4349515499    OH	1009.9
+Anthony West	54891	1	CFA Institute          4349515499   SD	1009.9
